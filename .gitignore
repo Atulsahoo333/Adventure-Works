@@ -1,0 +1,6 @@
+adventure-works.json
+.env
+env/
+__pycache__/
+.vscode/
+icons/
